@@ -1,0 +1,14 @@
+<html>
+ <head>
+       <meta charseututf-8 />
+ </head>
+
+     <from>
+
+         <h1>login<h1>
+
+      <input type="email" placeholder="email">
+
+    </form>
+
+</html>
